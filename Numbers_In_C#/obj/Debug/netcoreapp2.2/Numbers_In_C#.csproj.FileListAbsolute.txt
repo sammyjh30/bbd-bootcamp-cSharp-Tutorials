@@ -1,0 +1,11 @@
+C:\Users\bbdnet2004\Documents\Learning\C#\C#_Tutorials\Numbers_In_C#\bin\Debug\netcoreapp2.2\Numbers_In_C#.deps.json
+C:\Users\bbdnet2004\Documents\Learning\C#\C#_Tutorials\Numbers_In_C#\bin\Debug\netcoreapp2.2\Numbers_In_C#.runtimeconfig.json
+C:\Users\bbdnet2004\Documents\Learning\C#\C#_Tutorials\Numbers_In_C#\bin\Debug\netcoreapp2.2\Numbers_In_C#.runtimeconfig.dev.json
+C:\Users\bbdnet2004\Documents\Learning\C#\C#_Tutorials\Numbers_In_C#\bin\Debug\netcoreapp2.2\Numbers_In_C#.dll
+C:\Users\bbdnet2004\Documents\Learning\C#\C#_Tutorials\Numbers_In_C#\bin\Debug\netcoreapp2.2\Numbers_In_C#.pdb
+C:\Users\bbdnet2004\Documents\Learning\C#\C#_Tutorials\Numbers_In_C#\obj\Debug\netcoreapp2.2\Numbers_In_C#.csprojAssemblyReference.cache
+C:\Users\bbdnet2004\Documents\Learning\C#\C#_Tutorials\Numbers_In_C#\obj\Debug\netcoreapp2.2\Numbers_In_C#.csproj.CoreCompileInputs.cache
+C:\Users\bbdnet2004\Documents\Learning\C#\C#_Tutorials\Numbers_In_C#\obj\Debug\netcoreapp2.2\Numbers_In_C#.AssemblyInfoInputs.cache
+C:\Users\bbdnet2004\Documents\Learning\C#\C#_Tutorials\Numbers_In_C#\obj\Debug\netcoreapp2.2\Numbers_In_C#.AssemblyInfo.cs
+C:\Users\bbdnet2004\Documents\Learning\C#\C#_Tutorials\Numbers_In_C#\obj\Debug\netcoreapp2.2\Numbers_In_C#.dll
+C:\Users\bbdnet2004\Documents\Learning\C#\C#_Tutorials\Numbers_In_C#\obj\Debug\netcoreapp2.2\Numbers_In_C#.pdb

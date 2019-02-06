@@ -1,0 +1,11 @@
+C:\Users\bbdnet2004\Documents\Learning\C#\C#_Tutorials\Hello_World\bin\Debug\netcoreapp2.2\Hello_World.deps.json
+C:\Users\bbdnet2004\Documents\Learning\C#\C#_Tutorials\Hello_World\bin\Debug\netcoreapp2.2\Hello_World.runtimeconfig.json
+C:\Users\bbdnet2004\Documents\Learning\C#\C#_Tutorials\Hello_World\bin\Debug\netcoreapp2.2\Hello_World.runtimeconfig.dev.json
+C:\Users\bbdnet2004\Documents\Learning\C#\C#_Tutorials\Hello_World\bin\Debug\netcoreapp2.2\Hello_World.dll
+C:\Users\bbdnet2004\Documents\Learning\C#\C#_Tutorials\Hello_World\bin\Debug\netcoreapp2.2\Hello_World.pdb
+C:\Users\bbdnet2004\Documents\Learning\C#\C#_Tutorials\Hello_World\obj\Debug\netcoreapp2.2\Hello_World.csprojAssemblyReference.cache
+C:\Users\bbdnet2004\Documents\Learning\C#\C#_Tutorials\Hello_World\obj\Debug\netcoreapp2.2\Hello_World.csproj.CoreCompileInputs.cache
+C:\Users\bbdnet2004\Documents\Learning\C#\C#_Tutorials\Hello_World\obj\Debug\netcoreapp2.2\Hello_World.AssemblyInfoInputs.cache
+C:\Users\bbdnet2004\Documents\Learning\C#\C#_Tutorials\Hello_World\obj\Debug\netcoreapp2.2\Hello_World.AssemblyInfo.cs
+C:\Users\bbdnet2004\Documents\Learning\C#\C#_Tutorials\Hello_World\obj\Debug\netcoreapp2.2\Hello_World.dll
+C:\Users\bbdnet2004\Documents\Learning\C#\C#_Tutorials\Hello_World\obj\Debug\netcoreapp2.2\Hello_World.pdb
